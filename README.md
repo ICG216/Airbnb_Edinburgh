@@ -16,7 +16,12 @@ This project analyzes Airbnb listings in Edinburgh from the perspective of a **R
 
 ## **Project Structure**
 The repository contains the following components:
-📂 Edinburgh_Airbnb_Analysis ├── 📄 README.md # Project overview and instructions ├── 📂 data # Raw datasets ├── 📂 notebooks # Jupyter notebooks for analysis and modeling ├── 📂 visualizations # Generated charts and visual summaries ├── 📂 models # Saved ML models and scripts
+   - 📂 Edinburgh_Airbnb_Analysis 
+   - 📄 README.md # Project overview and instructions
+   - 📂 data # Raw datasets
+   - 📂 notebooks # Jupyter notebooks for analysis and modeling
+   - 📂 visualizations # Generated charts and visual summaries
+   -  📂 models # Saved ML models and scripts
 
 ## **Installation**
 1. Clone the repository:
