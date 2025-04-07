@@ -1,4 +1,7 @@
 # Edinburgh Airbnb Revenue Analysis
+![Mountain-view-over-city-Edinburgh](https://github.com/user-attachments/assets/f1a091fb-e295-4a4e-a752-59f8aee996fe)
+## 🎤 Project Presentation
+Check out the full project presentation on [Canva](https://www.canva.com/design/DAGh6P4qyvY/gQOEcoKcgEO1rAaGBj9MKg/view?utm_content=DAGh6P4qyvY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd368d58e38).
 
 ## **Overview**
 This project analyzes Airbnb listings in Edinburgh from the perspective of a **Revenue Manager**. It is designed to uncover actionable insights to maximize revenue through pricing optimization, demand forecasting, and data-driven strategies. The analysis focuses on identifying trends, optimizing occupancy, and leveraging machine learning to provide predictive and prescriptive recommendations.
